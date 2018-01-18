@@ -1,0 +1,16 @@
+{
+  "models":[
+    {
+      "model":"Index",
+      "path":"./index"
+    },
+    {
+      "model":"Color",
+      "path":"./color"
+    },
+    {
+      "model":"Book",
+      "path":"./books"
+    }
+  ]
+}
